@@ -1,4 +1,4 @@
-###Books
+### Books
 Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
 https://www.goodreads.com/book/show/179133.Domain_Driven_Design
 
@@ -16,7 +16,7 @@ Specification by Example: How Successful Teams Deliver the Right Software
 by Gojko Adzic
 https://www.goodreads.com/book/show/10288718-specification-by-example
 
-###Design
+### Design
 Event Storming
 https://www.eventstorming.com/
 
@@ -29,7 +29,7 @@ https://martinfowler.com/bliki/BoundedContext.html
 
 User Story Mapping https://www.jpattonassociates.com/user-story-mapping/
 
-###Courses/Workshops/Videos
+### Courses/Workshops/Videos
 
 Domain Driven Design: First Steps
 Andrew Harmel-Law
@@ -47,7 +47,7 @@ Bare Essentials of DDD: https://www.youtube.com/watch?v=uBSrr7984GM
 
 Seven Years of DDD https://www.softdevtube.com/2018/11/06/7-years-of-domain-driven-design/
 
-###Other DDD Lists/Resources
+### Other DDD Lists/Resources
 The DDD Crew/top-down DDD: https://github.com/ddd-crew/ddd-starter-modelling-process
 
 Awesome Domain-Driven Design https://github.com/heynickc/awesome-ddd
